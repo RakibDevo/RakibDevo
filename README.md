@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakibDevo
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m an expert in HTML, CSS, JAVASCRIPT, Boostrap, jQuery, SQL, WordPress, Microsoft Office.
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me 
 
